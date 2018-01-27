@@ -1,0 +1,2 @@
+# FaeriaDeckStatistics
+Faeria Deck Statistics
